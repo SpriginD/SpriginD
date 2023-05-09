@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bircan, 18yo final highschool student
-- 👀 I’m interested in web and game developement, also a little bit AI :D
-- 🌱 I’m currently learning React and advanced game development on Unity with C#
+- 👋 Hi, I’m Bircan, 20yo freshman university student
+- 👀 I’m interested in game developement and AI, also a little bit web :D
+- 🌱 I’m currently learning advanced game development on Unity with C# and Artfical Neural Network algorithms
 - 📫 How to reach me: onlebircan@gmail.com
 
 <!---
