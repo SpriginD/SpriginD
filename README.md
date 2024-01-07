@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Bircan, 20yo freshman university student
-- 👀 I’m interested in game developement and AI, also a little bit web :D
-- 🌱 I’m currently learning advanced game development on Unity with C# and Artfical Neural Network algorithms
+- 👋 Hi, I’m Bircan, 20yo Computer Programming student
+- 👀 I’m interested in game, mobile development and also VR Technologies
+- 🌱 I’m currently learning Quantum Programming and aspects of the IoT projects.
 - 📫 How to reach me: onlebircan@gmail.com
 
 <!---
