@@ -1,9 +1,18 @@
-- 👋 Hi, I’m Bircan, 21yo. Graduated from Computer Programming and now, working as a full-time Flutter developer.
-- 👀 I’m interested in game, mobile development and also VR Technologies.
-- 🌱 I’m currently learning aspects of the IoT projects.
-- 📫 How to reach me: onlebircan@gmail.com
+🚀 Junior Mobile Developer | 🎮 Indie Game Developer in Progress
+🎓 Management Information Systems @ Istanbul University
 
-<!---
-SpriginD/SpriginD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi! I'm Bircan — a passionate developer focused on building scalable mobile apps using Flutter and creating immersive gameplay experiences with Godot 4. I'm currently working as a Mobile Developer, and I’m also working towards founding my own mobile business solutions startup. Later on, I plan to establish an indie game studio.
+
+🛠️ Tech Stack & Interests:
+
+Mobile Development: Flutter, Dart
+
+Backend: FastAPI, Firebase, PostgreSQL
+
+Game Development: Godot 4, GDScript
+
+Other: C#, Python, DevOps tools (Azure, GCP), modular architectures
+
+🌱 Currently learning more about scalable architectures, modular codebases, and advanced networking for multiplayer games.
+
+💡 Always open to collaboration, especially in mobile, game dev, or startup projects!
